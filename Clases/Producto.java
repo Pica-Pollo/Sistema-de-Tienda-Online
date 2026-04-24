@@ -1,3 +1,5 @@
+import Interface.IVendible;
+
 //CLASE PADRE
 public class Producto implements IVendible {
     protected int id;

@@ -1,5 +1,8 @@
 import java.util.*;
 
+import Interface.ICupon;
+import Interface.IDescontable; 
+
 public class Main {
 // Colecciones para persistencia durante la ejecución
     final private static ArrayList<Producto> inventario = new ArrayList<>();

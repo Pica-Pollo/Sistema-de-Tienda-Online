@@ -1,4 +1,8 @@
 //CLASE PADRE
+
+import Interface.ICupon;
+import Interface.IDescontable;
+
 public class Cliente {
     protected String id;
     protected String nombre;
