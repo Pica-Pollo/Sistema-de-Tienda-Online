@@ -3,7 +3,7 @@ import java.util.*;
 import Interface.ICupon;
 import Interface.IDescontable;
 
-public class SystemStore {
+public class SystemStoreOnline {
 // Colecciones para persistencia durante la ejecución
     final private static ArrayList<Producto> inventario = new ArrayList<>();
     final private static HashMap<String, Cliente> clientes = new HashMap<>();
