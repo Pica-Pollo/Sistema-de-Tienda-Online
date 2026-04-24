@@ -1,8 +1,9 @@
-//CLASE PADRE
+package Classes;
 
 import Interface.ICupon;
 import Interface.IDescontable;
 
+//CLASE PADRE
 public class Cliente {
     protected String id;
     protected String nombre;
