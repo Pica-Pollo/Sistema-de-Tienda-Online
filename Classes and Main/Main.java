@@ -1,7 +1,7 @@
+package Classes;
 import java.util.*;
-
 import Interface.ICupon;
-import Interface.IDescontable; 
+import Interface.IDescontable;
 
 public class Main {
 // Colecciones para persistencia durante la ejecución
